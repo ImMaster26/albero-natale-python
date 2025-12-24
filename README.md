@@ -11,8 +11,7 @@ Albero di Natale animato eseguibile da terminale scritto in Python. Include luci
 
 1.  Apri il terminale nella cartella del progetto.
 2.  Installa la libreria necessaria per la riproduzione della canzone:
-3.  Assicurati che sia lo script sia il file musicale siano nella stessa directory
-
 ```bash
 pip install pygame
 ```
+3.  Assicurati che sia lo script sia il file musicale siano nella stessa directory
